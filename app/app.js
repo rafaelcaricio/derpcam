@@ -1,6 +1,6 @@
 Ext.application({
     name: 'DerpCam',
-    views: ['Main'],
+    views: ['Image'],
 
     launch: function() {
         console.log('mainLaunch');
