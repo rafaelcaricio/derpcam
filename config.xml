@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:gap= "http://phonegap.com/ns/1.0"
+        id="com.phonegap.getting.started"
+        version="1.0.0">
+
+    <name>DerpCam</name>
+
+    <description>
+        The photos of your friends have never been so cool.
+    </description>
+
+    <author href="http://about.me/rafaelcaricio"
+        email="rafael@caricio.com">
+        Rafael Caricio
+    </author>
+
+    <icon src="icon.png" gap:role="default" />
+
+    <feature name="http://api.phonegap.com/1.0/network"/>
+    <feature name="http://api.phonegap.com/1.0/camera"/>
+    <feature name="http://api.phonegap.com/1.0/file"/>
+
+    <preference name="orientation" value="portrait" />
+</widget>
