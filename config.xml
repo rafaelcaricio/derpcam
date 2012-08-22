@@ -15,7 +15,7 @@
         Rafael Caricio
     </author>
 
-    <icon src="icon.png" gap:role="default" />
+    <icon src="derp.png" gap:role="default" />
 
     <feature name="http://api.phonegap.com/1.0/network"/>
     <feature name="http://api.phonegap.com/1.0/camera"/>
